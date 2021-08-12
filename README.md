@@ -9,5 +9,5 @@ timerik/timerik is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-Klik this link to directly go to the DevOps Sentia "project:
+Click this link to directly go to the TechGrounds DevOps Sentia project:
 https://github.com/timerik/TechGrounds-Sentia-AWS-opdracht/wiki
